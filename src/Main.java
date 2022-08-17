@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
-
+//new changes done in github webpage //
 class student{
     static HashMap<Integer,student> map = new HashMap<>() ;
     static int id = 10001 ;
