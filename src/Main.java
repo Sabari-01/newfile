@@ -8,6 +8,7 @@ class student{
 
     String name ;
     int phno ;
+    int temp;
     student()
     {}
     public void create(String name , int phno ){
